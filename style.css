@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #666666;
+    flex-direction: column;
+}
+
+.zed-controls {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+#id-canvas {
+    border: 1px solid white;
+}
